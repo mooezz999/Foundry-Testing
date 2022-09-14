@@ -5,3 +5,5 @@
 	path = lib/openzeppelin-contracts
 [submodule "lib/chainlink-brownie-contracts"]
 	path = lib/chainlink-brownie-contracts
+[submodule "lib/chainlink"]
+	path = lib/chainlink
